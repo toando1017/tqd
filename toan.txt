@@ -1,76 +1,76 @@
 #
 # Block Telestream Servers
 #
-0.0.0.0  lbmail.telestream.net
-0.0.0.0  80-239-221-56.customer.teliacarrier.com
-0.0.0.0  80-239-221-99.customer.teliacarrier.com
-0.0.0.0  80-239-221-75.customer.teliacarrier.com
-0.0.0.0  dynamic.telestream.net
-0.0.0.0  a629.g.akamai.net
-0.0.0.0  store-esellerate-net.wip.digitalrivercontent.net
-0.0.0.0  esellerate-store2.digitalriver.com
-0.0.0.0  store.esellerate.net
-0.0.0.0  store2.esellerate.net
-0.0.0.0  store5.esellerate.net
-0.0.0.0  store6.esellerate.net
-0.0.0.0  esellerate.net
-0.0.0.0  digitalrivercontent.net
-0.0.0.0  digitalriver.com
-0.0.0.0  marketleverage.wip.directresponsetech.com
-0.0.0.0  directresponsetech.com
+0.0.0.0 lbmail.telestream.net
+0.0.0.0 80-239-221-56.customer.teliacarrier.com
+0.0.0.0 80-239-221-99.customer.teliacarrier.com
+0.0.0.0 80-239-221-75.customer.teliacarrier.com
+0.0.0.0 dynamic.telestream.net
+0.0.0.0 a629.g.akamai.net
+0.0.0.0 store-esellerate-net.wip.digitalrivercontent.net
+0.0.0.0 esellerate-store2.digitalriver.com
+0.0.0.0 store.esellerate.net
+0.0.0.0 store2.esellerate.net
+0.0.0.0 store5.esellerate.net
+0.0.0.0 store6.esellerate.net
+0.0.0.0 esellerate.net
+0.0.0.0 digitalrivercontent.net
+0.0.0.0 digitalriver.com
+0.0.0.0 marketleverage.wip.directresponsetech.com
+0.0.0.0 directresponsetech.com
 #
 # Block Wowza Media Servers
 #
-0.0.0.0  wowzalicense1.wowzamedia.com
-0.0.0.0  wowzalicense2.wowzamedia.com
-0.0.0.0  wowzalicense3.wowzamedia.com
-0.0.0.0  wowzalicense4.wowzamedia.com
-0.0.0.0  wowzalicense5.wowzamedia.com
+0.0.0.0 wowzalicense1.wowzamedia.com
+0.0.0.0 wowzalicense2.wowzamedia.com
+0.0.0.0 wowzalicense3.wowzamedia.com
+0.0.0.0 wowzalicense4.wowzamedia.com
+0.0.0.0 wowzalicense5.wowzamedia.com
 #
 # Block Xilisoft Imtoo Servers
 #
-0.0.0.0  imtoo.com
-0.0.0.0  xilisoft.com
-0.0.0.0  mp4converter.net
-0.0.0.0  xiliaudio.com
-0.0.0.0  xilimobile.com
-0.0.0.0  xilipod.com
-0.0.0.0  xilivideo.com
-0.0.0.0  cms.olym.xilisoft.net
-0.0.0.0  www.cms.olym.xilisoft.net
+0.0.0.0 imtoo.com
+0.0.0.0 xilisoft.com
+0.0.0.0 mp4converter.net
+0.0.0.0 xiliaudio.com
+0.0.0.0 xilimobile.com
+0.0.0.0 xilipod.com
+0.0.0.0 xilivideo.com
+0.0.0.0 cms.olym.xilisoft.net
+0.0.0.0 www.cms.olym.xilisoft.net
 #
 # Block Corel Servers
 #
-0.0.0.0  apps.corel.com
-0.0.0.0  mc.corel.com
-0.0.0.0  iws.corel.com
-0.0.0.0  deploy.akamaitechnologies.com
-0.0.0.0  compute-1.amazonaws.com
-0.0.0.0  origin-mc.corel.com
+0.0.0.0 apps.corel.com
+0.0.0.0 mc.corel.com
+0.0.0.0 iws.corel.com
+0.0.0.0 deploy.akamaitechnologies.com
+0.0.0.0 compute-1.amazonaws.com
+0.0.0.0 origin-mc.corel.com
 #
 # Block Sorenson Servers
 #
-0.0.0.0  reg.sorensonmedia.com
-0.0.0.0  secure.sorensonmedia.com
-0.0.0.0  reg-staging.sorensonmedia.com
-0.0.0.0  360.sorensonmedia.com 
+0.0.0.0 reg.sorensonmedia.com
+0.0.0.0 secure.sorensonmedia.com
+0.0.0.0 reg-staging.sorensonmedia.com
+0.0.0.0 360.sorensonmedia.com 
 #
 # Block Adobe Servers
 #
 # Main entries go below this comment
-0.0.0.0  192.150.18.108
-0.0.0.0  192.150.22.40
-0.0.0.0  192.150.14.69
-0.0.0.0  192.150.8.118
-0.0.0.0  192.150.8.100
-0.0.0.0  192.150.18.101
-0.0.0.0  192.168.112.207
-0.0.0.0  194.224.66.48
-0.0.0.0  199.7.52.190
-0.0.0.0  199.7.52.190:80
-0.0.0.0  209.34.83.73:43
-0.0.0.0  209.34.83.73:443
-0.0.0.0  www.adobeereg.com #75.125.24.83
+0.0.0.0 192.150.18.108
+0.0.0.0 192.150.22.40
+0.0.0.0 192.150.14.69
+0.0.0.0 192.150.8.118
+0.0.0.0 192.150.8.100
+0.0.0.0 192.150.18.101
+0.0.0.0 192.168.112.207
+0.0.0.0 194.224.66.48
+0.0.0.0 199.7.52.190
+0.0.0.0 199.7.52.190:80
+0.0.0.0 209.34.83.73:43
+0.0.0.0 209.34.83.73:443
+0.0.0.0 www.adobeereg.com #75.125.24.83
 0.0.0.0  adobeereg.com #207.66.2.10
 0.0.0.0  activate.adobe.com  #192.150.22.40
 0.0.0.0  practivate.adobe
